@@ -2,4 +2,7 @@ datastructure
 =============
 
 exercise of datastructure
-HELLO WORLD
+
+it is a collection of exercise for datastructure
+
+for sequence binary tree
