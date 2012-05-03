@@ -15,6 +15,14 @@
 #define INFEASIBLE  -1
 
 typedef int     Status;
-typedef int     boolean;
+typedef int     Bool;
 
-#endif
+#if INT 
+    typedef int Elem_type;
+#else
+#if CHAR
+    typedef char Elem_type;
+#endif //define typedef elem_type
+
+#endif // define common.h
+    
